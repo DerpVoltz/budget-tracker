@@ -1,5 +1,4 @@
-let db;
-const request = indexedDB.open('budget-tracker', 1);
+
 
 
 request.onupgradeneeded = function(event) {
