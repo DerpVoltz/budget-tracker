@@ -6,9 +6,9 @@ This is an app where you can track your budget every day. When you visit it you 
 
 ## installation
 
-To install this all you have to do is clone the repository, then run npm i, and finally run npm start and visit your local host on your web browser.
-
-[Website](https://github.com/DerpVoltz/budget-tracker)
+To install this all you have to do is clone the repository, then run npm i, and finally run npm start and visit your local host on your web browser. You can also visit the website at [Website](https://fathomless-chamber-10803.herokuapp.com/).
 
 ## Screenshot
+
+![WebsiteScreenshot](./images/screenshot.png)
 
